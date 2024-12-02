@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|c:\\users\\lechu\\source\\repos\\studentmvc\\studentmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E24548-236D-4F98-A1AF-96C47D5F121E}|StudentMVC\\StudentMVC.csproj|solutionrelative:studentmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T15:08:38.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentMVC\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentMVC\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T15:07:31.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Models\\Student.cs",
+              "RelativeToolTip": "StudentMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:06:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:04:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Program.cs",
+              "RelativeToolTip": "StudentMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:04:10.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "StudentMVC\\Services\\QueueService.cs",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\Services\\QueueService.cs",
+              "RelativeToolTip": "StudentMVC\\Services\\QueueService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:03:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\lechu\\source\\repos\\StudentMVC\\StudentMVC\\appsettings.json",
+              "RelativeToolTip": "StudentMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T15:02:33.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
